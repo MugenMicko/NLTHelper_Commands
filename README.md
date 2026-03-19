@@ -8,12 +8,15 @@ Series of commands to trigger items in NLT  Helper
 
 [YouTube Video teaching how NLT Helper Works](https://www.youtube.com/watch?v=nXCQyP0KglI)
 
-Generate API Key in NLT\Neon
+##Only to be used the first time you setup NTL Helper
+
+Generate API Key in NLT\NeonTiming
 Run ```api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX``` Only required first time running software
 ```
 Run ip 127.0.0.1
 ```
-Everything beyond required each race meet
+
+##Everything beyond required each race meet
 ```
 dropHeats 1
 ```
