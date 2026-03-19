@@ -30,6 +30,14 @@ newevent Craiola19Mar2026
 ```
 addclass mini_z
 ```
+If you choose to run additional classes, they will need to be added accordingly. ie you may want to run a box stock and mod class instead of straight Mini Z and these setup would be added as per below:
+```
+addclass boxstock
+```
+```
+addclass mod_mini_z
+```
+
 Inform first group that race is about to start and they are required to line up to race, other racers are to marshall the race
 ```
 nextheat mini_z 1 a
