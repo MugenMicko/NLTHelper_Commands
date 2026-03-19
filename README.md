@@ -20,54 +20,54 @@ dropHeats 1
 ```
 points 20 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
 ```
-Pick a name for event ie Craiola19Mar2026
+Pick a name for event ie Craiola19Mar2026 (Do not use "/", only letters numbers and underscores "_")
 ```
 newevent Craiola19Mar2026
 ```
 ```
-addclass Mini_Z
+addclass mini_z
 ```
 Inform first group that race is about to start and they are required to line up to race, other racers are to marshall the race
 ```
-nextheat Mini_Z 1
+nextheat mini_z 1 a
 ```
 Announce race end, prior racers to put car and radio down and get to marshalling positions
 Announce next race group
 Trigger Race
 ```
-nextheat Mini_Z 1
+nextheat mini_z 1 b
 ```
 Announce race end, prior racers to put car and radio down and get to marshalling positions
 Announce next race group
 Trigger Race
 ```
-nextheat Mini_Z 2
+nextheat mini_z 2 a
 ```
 Trigger Race
 ```
-nextheat Mini_Z 2
+nextheat mini_z 2 b
 ```
 Announce race end, prior racers to put car and radio down and get to marshalling positions
 Announce next race group
 Trigger Race
 Calc results as below
 ```
-results Mini_Z
+results mini_z
 ```
 ```
-splitfinals 5 Mini_Z
+splitfinals 4 mini_z
 ```
 Announce racers finals, request B Main to line up and A main drivers to marshall
 ```
-final Mini_Z B
+final mini_z b
 ```
 Announce End of Race, driver to bump, all non bumping drivers to marshall and A main drivers to line up
 Trigger Race
 ```
-final Mini_Z A
+final mini_z a
 ```
 Announce End of Race
 ```
-results Mini_Z
+results mini_z
 ```
 Deliver Results
