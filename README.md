@@ -6,6 +6,7 @@ Series of commands to trigger items in NLT  Helper
 
 [Random Grouping Generator](https://www.randomlists.com/team-generator)
 
+[YouTube Video teaching how NLT Helper Works](https://www.youtube.com/watch?v=nXCQyP0KglI)
 
 Generate API Key in NLT\Neon
 Run ```api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX``` Only required first time running software
