@@ -5,16 +5,18 @@ Series of commands to trigger items in NLT  Helper
 https://github.com/starfishmod/NLT-Helper
 ```
 Generate API Key in NLT\Neon
-Run ```api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
+Run ```api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX``` Only required first time running software
 ```
 Run ip 127.0.0.1
 ```
+Everything beyond required each race meet
 ```
 dropHeats 1
 ```
 ```
 points 20 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
 ```
+Pick a name for event ie Craiola19Mar2026
 ```
 newevent Craiola19Mar2026
 ```
