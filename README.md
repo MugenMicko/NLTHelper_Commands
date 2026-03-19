@@ -5,7 +5,7 @@ Series of commands to trigger items in NLT  Helper
 https://github.com/starfishmod/NLT-Helper
 ```
 Generate API Key in NLT\Neon
-Run api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Run ```api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
 ```
 Run ip 127.0.0.1
 ```
