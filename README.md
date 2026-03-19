@@ -4,6 +4,11 @@ Series of commands to trigger items in NLT  Helper
 ```
 https://github.com/starfishmod/NLT-Helper
 ```
+Random Grouping Generator
+```
+https://www.randomlists.com/team-generator
+```
+
 Generate API Key in NLT\Neon
 Run ```api_key XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX``` Only required first time running software
 ```
