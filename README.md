@@ -1,4 +1,4 @@
-# NLTHelper_Commands
+# NLTHelper Commands
 Series of commands to trigger items in NLT  Helper
 
 
