@@ -38,7 +38,8 @@ addclass boxstock
 addclass mod_mini_z
 ```
 
-Inform first group that race is about to start and they are required to line up to race, other racers are to marshall the race
+Inform first group that race is about to start and they are required to line up to race, other racers are to marshall the race.
+If you have used different class names the syntax is as follows  `nextheat <classname> <round number> <group letter>`
 ```
 nextheat mini_z 1 a
 ```
